@@ -1,0 +1,199 @@
+body
+{
+  background: linear-gradient(rgb(107, 193, 176), rgb(191, 179, 135));
+  background-attachment: fixed;
+}
+
+header 
+{
+background-image: url('../img/W.jpeg');
+background-position: center;
+background-repeat: no-repeat;
+height: 300Px;
+background-size: cover;
+}
+
+
+
+div {
+
+    display : flex ;
+    align-items: center ;
+    margin-top: 90px;
+    flex-direction: row;
+    justify-content: space-between;
+  
+}
+
+#loupe figure img {
+    width: 3em;
+    margin-left: 50em;
+    -webkit-user-select: none;
+  
+}
+
+.pays {
+    display: block;
+    width: 25000px;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 0.25em 0 0.25em 0.25em;
+    border: none;
+    font-size: 1.5em;
+    background-color: rgba(255, 255, 255, 0);
+  
+  }
+
+ .button {
+
+         padding: 10px;
+         border-radius: 3px; 
+
+
+    }
+
+  div input:focus {
+    outline: none;
+  }
+
+
+  div input::placeholder {
+    transition: placeholder 1;
+    color: rgba(0, 0, 0, 0.4);
+  }
+
+
+  div input:focus::placeholder {
+    color: transparent;
+    transition: color 100ms;
+  }
+
+  div input:not(:focus)::placeholder {
+    transition: color 200ms;
+    text-shadow: none;
+  }
+  
+
+main  h1 
+{
+
+        font-size: 50px;
+        font-family: cursive;
+        text-align: center;
+        font-style: italic;
+        color: rgb(117, 121, 124)
+}
+
+#sect{
+  padding: 40px;
+  width: 500px;
+}
+
+
+
+#bah
+{
+  display: flex;
+  flex-direction: row;
+  flex-grow: 3;
+}
+
+#pic
+{
+
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+#pic figure img
+{
+  height: 200px;
+  width: 150px;
+}
+
+
+#ceci
+{
+  text-decoration:none; 
+}
+
+#arti
+ {  
+    border: 2px dotted black; 
+    border-radius: 2rem;
+    margin-bottom: 2rem;
+    padding: 30px;
+    margin: 10px;
+   
+  
+ }
+
+ #arti:hover{
+
+	background-color: rgb(67, 131, 120);
+}
+
+#arti figure img
+{
+    height: 180px;
+    width: 270px;
+    align-items: center;
+}
+
+
+table 
+{
+        border-collapse: collapse;
+        text-align: center;
+        width: 50%;
+        border: transparent;        
+}
+
+    tr > th 
+        {
+            background-color: rgb(58, 184, 121);
+            padding: 0.5rem;
+            color: rgb(4, 0, 7);
+            border: transparent;
+            margin-bottom: 2.5rem;
+         }
+    tr > th, td 
+        {
+            padding: 0.5rem;
+            border: transparent;
+            text-align: center;
+        }
+article p 
+{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+}
+
+
+
+footer {
+
+    background-color: rgb(83, 108, 131);
+    height: 100px;
+    background-size: cover;
+    margin-bottom: 0px;
+}
+
+footer p {
+
+      font-weight: bold;
+      font-size: 18;
+      text-align: center;
+      }
+
+
+      footer a img {
+
+        height: 30px;
+       
+
+      }
+
+
