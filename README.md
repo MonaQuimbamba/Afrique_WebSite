@@ -1,6 +1,6 @@
 # AfricaSite
 
-![Contribution guidelines for this project](img/wholePage.PNG)
+![Contribution guidelines for this project](img/wholePage.png)
 
 # Description 
 
