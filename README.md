@@ -4,14 +4,16 @@
 
 # Description 
 
-un site web où j'ai utilisé une API pour récuperer des informations sur un pays de l'afrique choisi 
+a website where I used an API to retrieve information on a selected country in africa 
+for example weld africa that gives us this 
+![Contribution guidelines for this project](img/teste.png)
 
-# langage Informatique 
+# IT language
 
 - HTML
 - JAVA SCRIPT
 - CSS
 
-# Comment tester le code 
+# How to test the code 
 
-Télécharger les fichiers et les placers dans le même dossier ensuite ouvrir le fichier index.html avec un navigateur
+Download the files and place them in the same folder then open the index.html file with a browser.
